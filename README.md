@@ -11,7 +11,8 @@
   <br><span style="font-style: italic;">I'm</span> <span style="color:#9461FF">Abdullah Moin</span>
 </h1>
 <h3 align="center" style="margin-bottom:7px;" > Computer Engineer | WEB and WordPress Developer | JavaScript | Django</h3>
-<pre align="center"> <code> I'm thrird year CSE undergraduate and a passionate programmer who loves to Code, Design, Innovate & Experiment. I'm passionate & like to take new challengs, learn new skills. I love meeting new people, exchageing ideas and spreading knowledge and positivity.</code></pre>
+<p align="center"> <code> I'm thrird year CSE undergraduate and a passionate programmer who loves to Code, Design, Innovate & Experiment. I'm passionate & like to take new challengs, learn new skills. I love meeting new people, exchageing ideas and spreading knowledge and positivity.</code></p>
+<br>
 <p align="center">🎉<b>Special Feature:</b> 
 <br>
 <br>
@@ -42,6 +43,7 @@
 <a href="https://www.instagram.com/m_oi_n/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 <a href="https://www.youtube.com/channel/UC9jD3fIvFmp_zoesTdOnn0Q"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 </p>
+<br>
 <h3> 🛠️ Tech Stack </h3>
 <br>
 <p align="center" style="cursor: pointer;">
@@ -71,7 +73,7 @@
 <br>
 <br>
 <h3> 📊 Github Stats (Expand to View) </h3>
-<div style="cursor: pointer;">
+<div style="cursor: pointer; line-height: 1.2em; ">
 <details> 
   <summary><b>💻 Most Used Language</b></summary>
   <br/>
