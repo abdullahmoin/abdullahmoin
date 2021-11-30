@@ -1,6 +1,4 @@
-<p align="center">
-<img align="center" src="https://raw.githubusercontent.com/abdullahmoin/abdullahmoin/main/img/Add%20a%20heading.gif">
-</p>
+
 <h1 align="center" style="padding-top:-5px"> 
 <a target="_blank">
     <img src="https://raw.githubusercontent.com/abdullahmoin/abdullahmoin/main/icons/totoro.gif" width="50px" style="max-width:100%;">
