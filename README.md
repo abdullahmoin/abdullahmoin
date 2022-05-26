@@ -18,11 +18,13 @@
 </p>
 <br>
 <br>
+<p align="center">
 <a target="_blank">
-  <img align="right" height="180" width="300" alt="GIF" src="https://raw.githubusercontent.com/abdullahmoin/abdullahmoin/main/img/image.gif">
+  <img align="center" height="180" width="300" alt="GIF" src="https://raw.githubusercontent.com/abdullahmoin/abdullahmoin/main/img/image.gif">
 </a>
+</p>
 <span style="line-height: 2.1em;">
-- 🔥 I'm currently working on web development technologies like JavaScript(ES6), React JS Node JS. <br>
+- 🔥 I'm currently working on web development technologies like JavaScript(ES6), React JS, Node JS. <br>
 - 📚 I’m currently learning everything about Frontend and Backend technologies.<br>
 - 🔬 Doing Research, Publications, Journal on Web Technologies, Maching Learning & AI.<br>
 - ⚡ Fun fact: Coding is a passion and not profession.<br>
