@@ -1,10 +1,9 @@
 
 <h1 align="center" style="padding-top:-5px"> 
 <a target="_blank">
-    <img src="https://raw.githubusercontent.com/abdullahmoin/abdullahmoin/main/icons/totoro.gif" width="50px" style="max-width:100%;">
-  </a>
+    <img src="https://raw.githubusercontent.com/abdullahmoin/abdullahmoin/main/icons/totoro.gif" width="30px" style="max-width:50%;">
+  </a></br>
   <span style="font-family:Courgette; color:#FFC300;">Hello Folks!</span><a target="_blank">
-    <img src="https://raw.githubusercontent.com/abdullahmoin/abdullahmoin/main/icons/hi.gif" width="50px" style="max-width:100%; margin-left:-10px">
   </a>
   <br><span style="font-style: italic;">I'm</span> <span style="color:#9461FF">Abdullah Moin</span>
 </h1>
