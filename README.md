@@ -7,7 +7,7 @@
   </a>
   <br><span style="font-style: italic;">I'm</span> <span style="color:#9461FF">Abdullah Moin</span>
 </h1>
-<h3 align="center" style="margin-bottom:7px;" > Computer Engineer | WEB and WordPress Developer | JavaScript | React</h3>
+<h3 align="center" style="margin-bottom:7px;" > Computer Engineer | JavaScript | React</h3>
 <p align="center"> <code> I'm thrird year CSE undergraduate and a passionate programmer who loves to Code, Design, Innovate & Experiment. I'm passionate & like to take new challengs, learn new skills. I love meeting new people, exchageing ideas and spreading knowledge and positivity.</code></p>
 <br>
 <p align="center">🎉<b>Special Feature:</b> 
