@@ -8,7 +8,7 @@
   <br><span style="font-style: italic;">I'm</span> <span style="color:#9461FF">Abdullah Moin</span>
 </h1>
 <h3 align="center" style="margin-bottom:7px;" > React Developer | Researcher </h3>
-<p align="center"> <code> I'm thrird year CSE undergraduate and a passionate programmer who loves to Code, Design, Innovate & Experiment. I'm passionate & like to take new challengs, learn new skills. I love meeting new people, exchageing ideas and spreading knowledge and positivity.</code></p>
+<p align="center"> <code> Enthusiastic react developer with solid development skills and a passion for developing applications that serve others. Proficient in advanced front-end development with core knowledge such as Design Patterns, OOP, and Functional Programming. Keen to work as a team, solve problems, deal with challenges and have a clear, logical mindset with a practical approach to problem-solving and drive to see things through to completion.</code></p>
 <br>
 <p align="center">🎉<b>Special Feature:</b> 
 <br>
