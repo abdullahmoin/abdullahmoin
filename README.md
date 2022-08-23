@@ -25,7 +25,7 @@
 <span style="line-height: 2.1em;">
 - 🔥 I'm currently working on web development technologies like JavaScript(ES6), React JS, Node JS. <br>
 - 📚 I’m currently learning everything about Frontend and Backend technologies.<br>
-- 🔬 Doing Research, Publications, Journal on Web Technologies, Maching Learning & AI.<br>
+- 🔬 Doing Research, Publications, Journal on Web Technologies, Maching Learning, Blockchain & AI.<br>
 - ⚡ Fun fact: Coding is a passion and not profession.<br>
 </span>
 <br>
