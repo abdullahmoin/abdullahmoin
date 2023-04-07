@@ -33,10 +33,10 @@
 <br>
 <h3> 🙋‍♀️ Book Me for a Project </h3>
 <p  align="center">
-<a href="https://www.upwork.com/freelancers/~01b5d86ceb52472fa3" target="blank">
+<a href="https://www.upwork.com/freelancers/~01b5d86ceb52472fa3" target="_blank">
     <img src="img/upwork.png" width="50px" style="max-width:50%;">
  </a> &nbsp;&nbsp;
-<a href="https://www.fiverr.com/abdullah_moin" target="blank">
+<a href="https://www.fiverr.com/abdullah_moin" target="_blank">
     <img src="img/fiverr.png" width="50px" style="max-width:50%;">
  </a>
 	
@@ -151,10 +151,6 @@ jobs:
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/youtube/channel/subscribers/UC9jD3fIvFmp_zoesTdOnn0Q?style=social">
   </a>
 </div>
-
-
-
-
 
 
 <!--- All right reserverd to Abdullah Moin. Copy of the design and code will be violation of github copyright terms -->
