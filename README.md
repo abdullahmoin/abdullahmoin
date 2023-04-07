@@ -31,6 +31,17 @@
 <br>
 <br>
 <br>
+<h3> 🙋‍♀️ Book Me for a Project </h3>
+<p  align="center">
+<a target="_blank">
+    <img src="img/upwork.png" width="50px" style="max-width:50%;">
+ </a>
+<a target="_blank">
+    <img src="img/fiverr.png" width="50px" style="max-width:50%;">
+ </a>
+	
+</p>
+<br>
 <h3> 🙋‍♀️ Let's Connect </h3>
 <p  align="center">
 <a href="https://abdullahmoin.com"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
