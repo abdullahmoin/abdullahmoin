@@ -33,10 +33,10 @@
 <br>
 <h3> 🙋‍♀️ Book Me for a Project </h3>
 <p  align="center">
-<a target="_blank">
+<a target="https://www.upwork.com/freelancers/~01b5d86ceb52472fa3">
     <img src="img/upwork.png" width="50px" style="max-width:50%;">
- </a>
-<a target="_blank">
+ </a> &nbsp;&nbsp;
+<a target="https://www.fiverr.com/abdullah_moin">
     <img src="img/fiverr.png" width="50px" style="max-width:50%;">
  </a>
 	
